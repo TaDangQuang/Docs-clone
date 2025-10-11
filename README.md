@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Full-stack Google Docs Clone using Next.js 15 and Convex
 
 ## Folder Structure
@@ -64,3 +66,10 @@
     |- tsconfig.json    
 ```
 ## Screenshots
+![Image_1](image.png 'Image_1')
+
+![Image_2](image-1.png 'Image_2')
+
+![Image_3](image-2.png 'Image_3')
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
